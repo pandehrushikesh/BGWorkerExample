@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGWorker", "MyBGWorker\MyBGWorker.csproj", "{88B9F968-E537-420C-AD4A-DE76D0F90B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsyncAwait", "MyAsyncAwait\MyAsyncAwait.csproj", "{55B96360-2E67-4790-9F22-15AE98ACED6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartSample", "StartSample\StartSample.csproj", "{10C5E905-D61C-4860-BDA1-C90565BA0D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B9F968-E537-420C-AD4A-DE76D0F90B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B9F968-E537-420C-AD4A-DE76D0F90B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B9F968-E537-420C-AD4A-DE76D0F90B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B9F968-E537-420C-AD4A-DE76D0F90B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B96360-2E67-4790-9F22-15AE98ACED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B96360-2E67-4790-9F22-15AE98ACED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B96360-2E67-4790-9F22-15AE98ACED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B96360-2E67-4790-9F22-15AE98ACED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C5E905-D61C-4860-BDA1-C90565BA0D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C5E905-D61C-4860-BDA1-C90565BA0D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C5E905-D61C-4860-BDA1-C90565BA0D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C5E905-D61C-4860-BDA1-C90565BA0D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
